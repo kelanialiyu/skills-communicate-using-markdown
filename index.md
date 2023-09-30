@@ -4,3 +4,7 @@
 const agian = "12"
 ```
 phew!!
+- [x] sing
+- [ ] dance
+- [ ] jump
+- [ ] fly
